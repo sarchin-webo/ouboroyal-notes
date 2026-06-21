@@ -1,2 +1,14 @@
 # ouboroyal-notes
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
